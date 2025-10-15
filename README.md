@@ -8,14 +8,6 @@ Minha experiência profissional nas áreas de vendas e marketing promocional me 
 
 Busco uma oportunidade de estágio na área de Data Analytics, onde possa aplicar meus conhecimentos técnicos e continuar aprendendo, contribuindo ativamente com projetos orientados a dados.
 
-<p align="left">
-    <a href="https://github.com/luisnogueia11?tab=followers">
-        <img alt="GitHub followers" src="https://img.shields.io/github/followers/luisnogueia11?style=for-the-badge&logo=github&color=236ad3&labelColor=1155ba&label=Seguidores">
-    </a>
-    <a href="https://github.com/luisnogueia11?tab=repositories&sort=stargazers">
-        <img alt="GitHub stars" src="https://img.shields.io/github/stars/luisnogueia11?style=for-the-badge&logo=github&color=55960c&labelColor=488207&label=Estrelas">
-    </a>
-</p>
 
 ---
 
